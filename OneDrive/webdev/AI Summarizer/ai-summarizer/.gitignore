@@ -23,3 +23,12 @@ dist-ssr
 *.sln
 *.sw?
 .env
+
+# Ignore other Windows folders
+/AppData/
+/Documents/
+/Desktop/
+/Downloads/
+/Favorites/
+/Links/
+/Music/
